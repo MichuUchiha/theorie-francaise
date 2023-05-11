@@ -1,1 +1,1 @@
-# theorie-francaise
+# theorie.francaise
